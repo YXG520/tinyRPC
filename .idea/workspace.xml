@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24c7fef7-9b53-421a-86f5-a9d476f9d821" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yxgrpc2/src/main/java/com/yxg/protocol/HttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/yxgrpc2/src/main/java/com/yxg/protocol/HttpServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +126,14 @@
       <workItem from="1688519883482" duration="1107000" />
       <workItem from="1688521013407" duration="22533000" />
     </task>
+    <task id="LOCAL-00001" summary="测试rebase功能">
+      <created>1737910349396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737910349396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
