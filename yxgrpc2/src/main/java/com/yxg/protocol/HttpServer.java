@@ -11,7 +11,7 @@ public class HttpServer {
 
 
     public void start(String hostname, Integer port){
-        // 读取用户的配置 server.name=netty
+        // 读取用户的配置 server.name=netty，testtest
         Tomcat tomcat = new Tomcat();
 
         Server server = tomcat.getServer();
