@@ -14,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="yxgRPC" target="8" />
+      <module name="yxgRpc" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
